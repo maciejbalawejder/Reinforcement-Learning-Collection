@@ -16,13 +16,6 @@ Check out the article with in depth explanation: [Solving OpenAI's Cart-Pole usi
 ### __Performance graph__ 
 ![Plot](https://user-images.githubusercontent.com/47450700/113200192-ec5d0680-925f-11eb-880f-80d80fc54311.png)
 
-## Deep Q-Learning
-------------
-### __Hyperparameters__
-![hyperparameters](https://user-images.githubusercontent.com/47450700/115386166-f627b900-a1d0-11eb-89e1-1e3830a8cfb2.PNG)
-
-### __Testing model graph__ 
-![TEST_policy_network](https://user-images.githubusercontent.com/47450700/115384925-7c430000-a1cf-11eb-9d4b-82ca37fef3b9.png)
 
 
 
