@@ -3,7 +3,7 @@ Implementations of Reinforcement Learning models in Python using __Tensorflow/Py
 
 - [x] Cartpole Q-Table
 - [x] Cartpole DQN
-- [ ] DoubleDQN
+- [ ] Double DQN
 - [ ] Dueling DQN
 - [ ] A3C
 - [ ] MuZero  
