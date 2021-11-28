@@ -1,5 +1,4 @@
 # CartPole-v0
--------
 ![working](https://user-images.githubusercontent.com/47450700/113194920-92f1d900-9259-11eb-9419-78171d0d7e59.gif)
 
 
