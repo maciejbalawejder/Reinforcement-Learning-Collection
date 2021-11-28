@@ -1,6 +1,5 @@
 # CartPole-v0
 ![working](https://user-images.githubusercontent.com/47450700/113194920-92f1d900-9259-11eb-9419-78171d0d7e59.gif)
-Solution for OpenAI's CartPole-v0 using Q-learning.
 
 Check out the article with in depth explanation: [Solving OpenAI's Cart-Pole using Q-learning Part 1](https://medium.com/analytics-vidhya/q-learning-is-the-most-basic-form-of-reinforcement-learning-which-doesnt-take-advantage-of-any-8944e02570c5)
 
