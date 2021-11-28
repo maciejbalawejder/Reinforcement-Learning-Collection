@@ -1,7 +1,7 @@
-![working](https://user-images.githubusercontent.com/47450700/113194920-92f1d900-9259-11eb-9419-78171d0d7e59.gif)
 # CartPole-v0
 -------
-This is a solution for OpenAI's CartPole-v0 Deep Q-Networks. 
+![working](https://user-images.githubusercontent.com/47450700/113194920-92f1d900-9259-11eb-9419-78171d0d7e59.gif)
+
 
 Check out the article with in depth explanation: [Solving Open AI’s CartPole using Reinforcement Learning Part-2](https://medium.com/analytics-vidhya/solving-open-ais-cartpole-using-reinforcement-learning-part-2-73848cbda4f1)
 
